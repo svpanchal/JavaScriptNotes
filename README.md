@@ -1,5 +1,4 @@
-# JavaScriptNotes
-# Notes on _Douglas Crockford's_ Javascript the Good Parts :rocket:
+# Notes on _Douglas Crockford's_ Javascript the Good Parts
 
 ## Table of Contents
 * [Chapter 1 - Good Parts](#chapter1)
